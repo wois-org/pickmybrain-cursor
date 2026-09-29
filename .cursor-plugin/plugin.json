@@ -1,0 +1,15 @@
+{
+  "name": "pickmybrain",
+  "version": "1.0.0",
+  "description": "Ask every expert in your PickMyBrain catalog at once, or one expert by name. Each call writes to your own thread and spends your daily budget.",
+  "author": {
+    "name": "PickMyBrain"
+  },
+  "homepage": "https://pickmybrain.com",
+  "repository": "https://github.com/wois-org/pickmybrain-cursor",
+  "license": "Proprietary",
+  "keywords": ["experts", "research", "personas", "mcp", "grok-bot"],
+  "logo": "assets/logo.png",
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}

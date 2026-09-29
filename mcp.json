@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "pickmybrain": {
+      "url": "https://pickmybrain.com/api/mcp",
+      "auth": {
+        "CLIENT_ID": "pickmybrain-cursor"
+      }
+    }
+  }
+}
